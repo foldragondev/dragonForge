@@ -1,4 +1,4 @@
-# 🔥 Dragonforge: The Ultimate Chronicles
+# 🔥 Dragonforge: Rise of The Legendary
 
 Welcome to **Dragonforge**, a professional-grade, text-based tactical RPG. This project is the culmination of a multi-generational collaboration between human creativity and artificial intelligence, featuring deep tactical combat, a modular engine, and an epic multi-stage finale.
 
